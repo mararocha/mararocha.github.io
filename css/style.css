@@ -9,7 +9,7 @@ body {
 }
 
 .main {
-	background-color: rgba(380,380,380,0.2);
+	
 	background-image: url(../images/bg.jpg);
 	max-width: 810px;
 	margin: 0 auto;
