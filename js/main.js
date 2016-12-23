@@ -1,17 +1,17 @@
 function askQuestions () {
 
-	var firstName = prompt('What will be the most disruptive technology?');
+	var Name = prompt('What will be the most disruptive technology?');
 
-	if (firstName == 'Machine Learning') {
+	if (Name == 'Machine Learning') {
 	console.log('Greetings')
 	}	
-	else if (firstName == 'Internet of things') {
+	else if (Name == 'Internet of things') {
 	console.log('Greetings')
 	}
-	else if (firstName == 'Blockchain') {
+	else if (Name == 'Blockchain') {
 	console.log('Greetings')
 	}
-	else if (firstName == 'IoT') {
+	else if (Name == 'IoT') {
 	console.log('Greetings')
 	}
 	else {
@@ -35,5 +35,3 @@ $(function() {
 
 	});
 });
-
-$("#content").html("<img src='/images/load.gif' alt='loading...' />");
