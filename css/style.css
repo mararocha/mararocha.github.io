@@ -9,8 +9,7 @@ body {
 }
 
 .main {
-	
-	background-image: url(../images/bg.jpg);
+	background-color: rgba(80,80,80,0.5);
 	max-width: 810px;
 	margin: 0 auto;
 	padding: 10px;
